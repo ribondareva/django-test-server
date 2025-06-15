@@ -3,7 +3,7 @@
 1. Установите Docker
 2. Загрузите образ из DockerHub
    ```bash
-   docker run -p 80:80 -p 5432:5432 вашлогин/django-test-server
+   docker pull ribondareva/django-test-server
    ```
 4. Запустите команду:
    ```bash
